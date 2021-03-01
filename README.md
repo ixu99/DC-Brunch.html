@@ -1,6 +1,4 @@
 # DC-Brunch.html
-<!DOCTYPE html>
-<html>
 <body>
 <style>
 .p1 {
@@ -48,4 +46,3 @@
 <h2 class="h2">Thank you for reading! -Isabella</h2>
 
 </body>
-</html>
